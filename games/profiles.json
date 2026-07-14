@@ -1,0 +1,8 @@
+{
+  "example_game": {
+    "name": "Example Game",
+    "executable": "/path/to/game.exe",
+    "profile": "performance",
+    "notes": "Game profile example"
+  }
+}
